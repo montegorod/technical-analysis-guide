@@ -1,5 +1,7 @@
 # Технический анализ. Только суть / Technical Analysis. Only the Essentials
 
+🌐 Сайт / Website: [ricforex.com/ru](https://ricforex.com/ru/) · [ricforex.com](https://ricforex.com/en/)
+
 Бесплатный самоучитель: технический анализ без воды, за 14 вечеров (72 страницы, 14 глав).
 A free self-study guide: technical analysis without the fluff, in 14 evenings.
 
